@@ -49,9 +49,9 @@ tests/ — интеграционные тесты и фикстуры.
 
 ### Пример работы
 #### Отчет по ВВП
-![first](https://github.com/user-attachments/assets/9a1991a7-9e3b-45af-9bb9-8cd02a6c9d89)
+![Описание картинки](assets/first.png?raw=true)
 
-#### Детализация данных
-![second](https://github.com/user-attachments/assets/48360a02-512a-4315-8311-a59db0d2e57b)
+#### 
+![Описание картинки](assets/second.png?raw=true)
 
 
