@@ -52,7 +52,7 @@ tests/ — интеграционные тесты и фикстуры.
 ### Пример работы
 #### Отчет по ВВП
 
-![first](https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/first.png?raw=true)
+![Отчет по ВВП](https://raw.githubusercontent.com/alexandr717171/csv-data-transformer/refs/heads/main/assets/first.png)
 
 ![second](https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/second.png?raw=true)
 
