@@ -39,7 +39,8 @@ class InflationReport(ProcessingMethod):
         # Логика расчета
         return [('Germany', 2.5)]
 
-https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/first.png?raw = true
+![first](https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/first.png?raw = true)
+
 
  Структура проекта
 main.py — точка входа и регистрация отчетов.
