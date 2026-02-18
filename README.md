@@ -39,7 +39,7 @@ class InflationReport(ProcessingMethod):
         # Логика расчета
         return [('Germany', 2.5)]
 
-![first](https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/first.png?raw=true)
+
 
 
  Структура проекта
@@ -51,8 +51,10 @@ tests/ — интеграционные тесты и фикстуры.
 
 ### Пример работы
 #### Отчет по ВВП
-<img width="791" height="784" alt="first" src="https://github.com/user-attachments/assets/04d771b7-2de7-4729-a495-82a743d0d301" />
-<img width="446" height="495" alt="second" src="https://github.com/user-attachments/assets/a7c3b012-106d-41fe-b6f4-b322354299a5" />
+
+![first](https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/first.png?raw=true)
+
+![second](https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/second.png?raw=true)
 
 
 
