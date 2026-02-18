@@ -30,6 +30,7 @@ pytest tests/
 В методе method_for_data опишите логику обработки словаря self.country_dict.
 Добавьте ваш класс в словарь REPORTS в файле main.py.
 Пример:
+'''
 python
 class InflationReport(ProcessingMethod):
     def __init__(self, *args, **kwargs):
@@ -40,7 +41,7 @@ class InflationReport(ProcessingMethod):
         # Логика расчета
         return [('Germany', 2.5)]
 
-
+'''
 
 
  Структура проекта
