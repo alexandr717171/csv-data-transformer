@@ -39,7 +39,7 @@ class InflationReport(ProcessingMethod):
         # Логика расчета
         return [('Germany', 2.5)]
 
-![first](https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/first.png?raw = true)
+![first](https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/first.png?raw=true)
 
 
  Структура проекта
