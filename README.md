@@ -52,7 +52,8 @@ tests/ — интеграционные тесты и фикстуры.
 
 ![Описание картинки]( https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/first.png?raw=true)
 
-####
+####<img width="791" height="784" alt="first" src="https://github.com/user-attachments/assets/b43e9f2f-caba-4d0b-a413-1d4905b425aa" />
+
 
 ![Описание картинки](assets/second.png?raw=true)
 
