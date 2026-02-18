@@ -48,11 +48,10 @@ app/running_scripts - логика обработки argparse
 tests/ — интеграционные тесты и фикстуры.
 
 ### Пример работы
-
 #### Отчет по ВВП
-<img width="791" height="784" alt="first" src="https://github.com/user-attachments/assets/9a1991a7-9e3b-45af-9bb9-8cd02a6c9d89" />
+![first](https://github.com/user-attachments/assets/9a1991a7-9e3b-45af-9bb9-8cd02a6c9d89)
 
 #### Детализация данных
-<img width="446" height="495" alt="second" src="https://github.com/user-attachments/assets/48360a02-512a-4315-8311-a59db0d2e57b" />
+![second](https://github.com/user-attachments/assets/48360a02-512a-4315-8311-a59db0d2e57b)
 
 
