@@ -7,6 +7,7 @@ markdown
 Установите необходимые библиотеки:
 ```bash
 pip install tabulate pytest
+```
 
 
  Запуск
