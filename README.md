@@ -49,14 +49,9 @@ tests/ — интеграционные тесты и фикстуры.
 
 ### Пример работы
 #### Отчет по ВВП
-
-![Описание картинки]( https://github.com/alexandr717171/csv-data-transformer/blob/main/assets/first.png?raw=true)
-
-<img width="791" height="784" alt="first" src="https://github.com/user-attachments/assets/b43e9f2f-caba-4d0b-a413-1d4905b425aa" />
-
-<img width="793" height="753" alt="Снимок экрана от 2025-07-11 05-47-17" src="https://github.com/user-attachments/assets/d92b31ae-0a89-4457-9d1c-c3b113dce1ff" />
+<img width="791" height="784" alt="first" src="https://github.com/user-attachments/assets/04d771b7-2de7-4729-a495-82a743d0d301" />
+<img width="446" height="495" alt="second" src="https://github.com/user-attachments/assets/a7c3b012-106d-41fe-b6f4-b322354299a5" />
 
 
-![Описание картинки](assets/second.png?raw=true)
 
 
